@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+
+.container-cabecalho{   
+ display: flex;
+ align-items: center;
+ background: #FFFFFF;
+ height: 80px; 
+ justify-content: center;
+}
+
+.container-cabecalho-nome{
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    padding: 0 101px 0 8px;
+    text-decoration: none;
+    color: #3A404E;
+}
+
+.container-nav-cabecalho, .container-nav-cabecalho-list, .button-cabecalho{
+    display: flex;
+    align-items: center;
+}
+
+.container-li-nav{
+    font-size: 16px;
+    color: #667085;
+    padding:0 16px;
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+
+}
+
+.container-li-nav:hover{
+    color:#000000;
+    text-decoration: underline;
+}
+
+.button-entrar-cabecalho{
+    padding: 10px 18px;
+    margin: 0 12px 0 352px;
+    border:  1px solid #FFFFFF;
+    background: #FFFFFF;
+    color: #667085;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+}
+
+.button-entrar-cabecalho:hover{
+    cursor: pointer;
+    color:#000000;
+    border:  1px solid #000000;
+}
+
+.button-cadastrar-cabecalho{
+    padding: 10px 18px;
+    border:  1px solid #8E2424;
+    border-radius: 5px;
+    margin: 0;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    color: #FFFFFF;
+    background: #8E2424;
+}
+
+.button-cadastrar-cabecalho:hover{
+   cursor: pointer;
+   transition: 1s;
+   background:#a81e1e;
+
+}
+
+
+
