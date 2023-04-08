@@ -16,13 +16,3 @@ A **Plataforma Alura** disponibilizou uma página prototipada no *Figma* ([link 
 
 
 
-## **Previews**:
-
-### **Monitor**
-
-![Site para monitor](img/previewMonitor.png)
-
-### **Mobile**
-
-
-![Site para mobile](img/previewMobile.png)
